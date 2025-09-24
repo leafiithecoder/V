@@ -1,3 +1,1 @@
-<p align="center">
-  <a href="#"><img src="https://imgur.com/a/j8sOoGh"></a>
-</p>
+![My Image](https://i.imgur.com/j8sOoGh.png)
